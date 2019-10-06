@@ -1,0 +1,1 @@
+const hede : string = 23232;
